@@ -894,3 +894,9 @@ td, th {
         page-break-after: avoid;
     }
 }
+
+.navigation {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
